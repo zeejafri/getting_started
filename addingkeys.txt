@@ -1,5 +1,3 @@
-follow the steps to add a key to your Git account updated on 14 may 2019
-
 Open Terminal.
 
 Paste the text below, substituting in your GitHub email address.
